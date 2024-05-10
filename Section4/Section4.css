@@ -1,0 +1,47 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.section4 {
+    background: url("../Assets/background_image.jpg") no-repeat;
+    height: 45vh;
+    margin-top: 522px;
+    position: relative;
+    width: 1941px;
+}
+
+.section4 img {
+    position: absolute;
+    top: -157px;
+    left: 282px;
+    width: 372px;
+    height: 328px;
+}
+
+.enroll_section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+    width: 891px;
+    height: 58px;
+    position: absolute;
+    top: 145px;
+    left: 655px;
+    gap: 20px;
+    opacity: 0px;
+
+}
+
+.section4 button {
+    background-color: #ffff;
+    border: none;
+    padding: 4px 16px;
+    font-family: Futura Md BT;
+    font-size: 22px;
+    font-weight: 400;
+
+
+}

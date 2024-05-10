@@ -1,0 +1,37 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 45px;
+    width: 1941px;
+
+
+}
+
+.navbar_logo img {
+    width: 135px;
+    height: 102.5px;
+    top: 142px;
+    left: 69px;
+    gap: 0px;
+    opacity: 0px;
+}
+
+.navbar_actions {
+
+    display: flex;
+    gap: 20px;
+    /* width: Hug (793px)px;
+    height: Hug (42px)px;
+    top: 172px;
+    left: 1068px;
+    gap: 69px;
+    opacity: 0px; */
+
+}

@@ -1,0 +1,98 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.section2 {
+    width: 1941px;
+}
+
+.section2 h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Futura Md BT;
+    font-size: 50px;
+    font-weight: 400;
+    line-height: 42px;
+    letter-spacing: 0.8960000276565552px;
+    color: #454545;
+}
+
+.section2 p {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: #454545;
+}
+
+.section2_images {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 40px;
+}
+
+.section2_images .img1 {
+    width: 408px;
+    height: 150px;
+    top: 1034px;
+    gap: 0px;
+    opacity: 0px;
+
+}
+
+.section2_images .img2 {
+    width: 263px;
+    height: 150px;
+    top: 1034px;
+    left: 431px;
+    gap: 0px;
+    opacity: 0px;
+}
+
+.section2_images .img3 {
+    width: 197px;
+    height: 150px;
+    top: 1034px;
+    left: 717px;
+    gap: 0px;
+    opacity: 0px;
+
+}
+
+.section2_images .img4 {
+    width: 408px;
+    height: 150px;
+    top: 1034px;
+    left: 937px;
+    gap: 0px;
+    opacity: 0px;
+
+}
+
+.section2_images .img5 {
+    width: 197px;
+    height: 150px;
+    top: 1034px;
+    left: 1368px;
+    gap: 0px;
+    opacity: 0px;
+
+}
+
+.section2_images .img6 {
+    width: 355px;
+    height: 150px;
+    top: 1034px;
+    left: 1588px;
+    gap: 0px;
+    opacity: 0px;
+
+}

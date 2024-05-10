@@ -1,0 +1,42 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.section1_images {
+    display: flex;
+    gap: 12px;
+}
+
+.section1_images .img1 {
+    width: 920px;
+    height: 460px;
+    top: 263px;
+    left: 1px;
+    gap: 0px;
+    opacity: 0px;
+}
+
+.section1_images .img2 {
+    width: 557px;
+    height: 460px;
+    top: 263px;
+    left: 939px;
+    gap: 0px;
+    opacity: 0px;
+
+
+}
+
+.section1_images .img3 {
+    width: 427px;
+    height: 460px;
+    top: 263px;
+    left: 1514px;
+    gap: 0px;
+    opacity: 0px;
+
+
+
+}

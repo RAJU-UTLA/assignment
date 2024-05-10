@@ -1,0 +1,80 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.section5 {
+    width: 1941px;
+    position: relative;
+    margin-top: 50px;
+}
+
+
+.inquire {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 30px;
+    margin-bottom: 100px;
+
+}
+
+.inquire h1 {
+    font-family: Futura Md BT;
+    font-size: 50px;
+    font-weight: 400;
+}
+
+.inquire p {
+    font-family: Futura Lt BT;
+    font-size: 16px;
+    font-weight: 200;
+    text-align: center;
+}
+
+.enriching {
+    background-color: #C9E9EE;
+    padding: 55px 55px;
+    font-family: Futura Hv BT;
+    height: 373px;
+}
+
+.mission {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.enriching button {
+    padding: 7px 27px;
+    top: 389px;
+    position: absolute;
+}
+
+.enriching img {
+    height: 113px;
+    width: 151px;
+    position: absolute;
+    top: 357px;
+    left: 794px;
+}
+
+.aboutmission {
+    box-shadow: -8px 0px 21.1px 5px #0000001A;
+    height: 373px;
+    /* padding: 55px 55px; */
+}
+
+.mission_box {
+    padding: 16px 25px;
+}
+
+.group_img {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 170px;
+    width: 2213px;
+}

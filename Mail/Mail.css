@@ -1,0 +1,23 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.mail {
+    background-color: #C9E9EE;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 1941px;
+    height: 107px;
+    top: -4px;
+    gap: 0px;
+    opacity: 0px;
+}
+
+.mail p {
+    width: Hug 265px;
+    height: Hug 42px;
+    opacity: 0px;
+}
